@@ -46,6 +46,7 @@ I love putting a smile on the faces of the people who use the products I build �
 
 ![Geography](https://img.shields.io/badge/🌍-Geography-blue)
 ![History](https://img.shields.io/badge/🏺-History-blue)
+![History](https://img.shields.io/badge/🏛️-Architecture-blue)
 ![Literature](https://img.shields.io/badge/📚-Literature-blue)
 ![Philosophy](https://img.shields.io/badge/🧠-Philosophy-blue)
 ![Movies](https://img.shields.io/badge/🎬-Movies-blue)
