@@ -55,3 +55,4 @@ I love putting a smile on the faces of the people who use the products I build �
 ![Open Source](https://img.shields.io/badge/💾-Open%20Source-blue)
 ![Puzzles](https://img.shields.io/badge/🧩-Puzzles-blue)
 ![Cooking](https://img.shields.io/badge/🍳-Cooking-blue)
+![Cooking](https://img.shields.io/badge/🪀-Yo-yo-blue)
