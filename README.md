@@ -15,7 +15,7 @@ I love putting a smile on the faces of the people who use the products I build �
   <tr>
     <td><img src="https://github.com/user-attachments/assets/dcf6bc33-3ce7-4024-a7da-e47b2c47f3e7" width="220" alt="Screenshot of React dot globe" /></td>
     <td><a href="https://github.com/ahuseyn/react-dot-globe"><b>react-dot-globe</b></a></td>
-    <td>🌐 A lightweight React globe component with animated dots</td>
+    <td>🌐 A WebGL globe component with animated dots for React</td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/bea8e078-8983-41fd-aa6a-8fcf07329d56" width="220" alt="Screenshot of Interactive SVG maps" /></td>
